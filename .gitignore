@@ -1,0 +1,31 @@
+# C++
+*.o
+*.out
+*.exe
+*.dll
+
+# C# / .NET
+bin/
+obj/
+*.user
+.vs/
+*.suo
+project.assets.json
+*.nuget.cache
+*.nuget.g.props
+*.nuget.g.targets
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
